@@ -5,11 +5,11 @@ title: "Manual e-SUS Regulação"
 description: "Guia de uso do sistema e-SUS Regulação"
 theme: just-the-docs
 
-# o nome do host e protocolo base para seu site, por exemplo, http://example.com
-url: https://otavioaugust1.github.io/manual-esus-regulacao
-
 # o subcaminho de seu site, por exemplo /blog\
 baseurl: "/manual-esus-regulacao"
+
+# o nome do host e protocolo base para seu site, por exemplo, http://example.com
+url: https://otavioaugust1.github.io/manual-esus-regulacao
 
 # Callouts CORES para destacar 
 callouts:
