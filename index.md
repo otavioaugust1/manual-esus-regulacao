@@ -18,12 +18,10 @@ LGPD            - nav_order: 9
 # Manual e-SUS Regulação
 
 Bem-vindo ao manual online do sistema e-SUS Regulação.
+<img src="imagens/indexnovo.png">
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
+
 
 *Elaboração, distribuição e informações*<br>
 
