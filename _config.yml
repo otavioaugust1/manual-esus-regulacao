@@ -11,6 +11,8 @@ baseurl: "/manual-esus-regulacao"
 # o nome do host e protocolo base para seu site, por exemplo, http://example.com
 url: "https://otavioaugust1.github.io"
 
+permalink: pretty
+
 # Callouts CORES para destacar 
 callouts:
   atencao:
