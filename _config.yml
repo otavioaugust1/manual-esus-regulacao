@@ -6,10 +6,13 @@ description: "Guia de uso do sistema e-SUS Regulação"
 theme: just-the-docs
 
 # o subcaminho de seu site, por exemplo /blog\
-# baseurl: "/manual-esus-regulacao" 
+baseurl: "/manual-esus-regulacao" 
 
-# o nome do host e protocolo base para seu site, por exemplo, http://example.com
-url: "https://otavioaugust1.github.io"
+# Opcional: Configurações do Just the Docs
+just_the_docs:
+  aux_links:
+    "GitHub":
+      - "//github.com/otavioaugust1/manual-esus-regulacao"
 
 permalink: pretty
 
