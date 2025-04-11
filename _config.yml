@@ -9,7 +9,7 @@ theme: just-the-docs
 baseurl: "/manual-esus-regulacao"
 
 # o nome do host e protocolo base para seu site, por exemplo, http://example.com
-url: https://otavioaugust1.github.io
+url: "https://otavioaugust1.github.io"
 
 # Callouts CORES para destacar 
 callouts:
