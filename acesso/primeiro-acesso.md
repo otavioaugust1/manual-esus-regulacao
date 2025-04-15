@@ -31,6 +31,7 @@ Embora este manual aborde também os perfis SOLICITANTE e EXECUTANTE, o foco pri
 
 Para acessar o sistema, utilize a URL:
 
+{: .nota } 
 [**https://regulacao.saude.gov.br/**](https://regulacao.saude.gov.br/)
 
 [imagem]
